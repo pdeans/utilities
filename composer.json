@@ -1,0 +1,27 @@
+{
+	"name": "pdeans/utilities",
+	"type": "library",
+	"description": "Collection of helpful utility methods and functions.",
+	"license": "MIT",
+	"keywords": ["utilities", "support", "encoding", "miva", "csv"],
+	"authors": [
+		{
+			"name": "Patrick Stearns",
+			"email": "pdeans1986@gmail.com"
+		}
+	],
+	"require": {
+		"pdeans/debuggers-vardumper": "^1.0",
+		"neitanod/forceutf8": "^2.0",
+		"league/csv": "^9.1",
+		"phpoffice/phpspreadsheet": "^1.5"
+	},
+	"autoload": {
+		"psr-4": {
+			"pdeans\\Utilities\\": "src"
+		},
+		"files": [
+			"src/utilities.php"
+		]
+	}
+}
