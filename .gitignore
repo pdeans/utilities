@@ -1,5 +1,6 @@
-vendor/
-test_resources/
+/.idea
+/.vscode
+/vendor
+.DS_Store
 composer.lock
 test.php
-.DS_Store
