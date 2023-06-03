@@ -2,14 +2,14 @@
 
 A collection of helpful utility methods and functions.
 
-## Installation
+### Installation
 
 Install via [Composer](https://getcomposer.org/).
 
-```shell
-composer require pdeans/utilities
+```
+$ composer require pdeans/utilities
 ```
 
-## Usage
+### Usage
 
 Docs coming soon.
