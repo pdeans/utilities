@@ -1,3 +1,5 @@
+> This package is **abandoned** and no longer maintained.
+
 # The PdeanS Utilities Package
 
 A collection of helpful utility methods and functions.
